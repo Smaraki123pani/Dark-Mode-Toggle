@@ -15,7 +15,8 @@ A simple **Dark Mode Toggle Application** built using **HTML, CSS, and JavaScrip
 - **JavaScript (ES6+)** - Logic for mode switching
 
 ## 📸 Previews
-![Screenshot-Light](https://github.com/user-attachments/assets/06919109-5f56-4c2c-a8b4-03d90147be60)
+![Screenshot-Light](https://github.com/user-attachments/assets/cdd3360e-8c0a-43b9-a864-7c70b8b08656)
+
 ![Screenshot-Dark](https://github.com/user-attachments/assets/ae97bb06-d695-4ec1-8449-19d31b28a612)
 
 ## 📂 Project Structure
