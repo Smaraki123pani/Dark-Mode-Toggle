@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 0.5s;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-solid{
+    font-size: 40px;
+    cursor: pointer;
+}
+.fa-solid:hover{
+    transform: scale(1.2);
+}
+.fa-sun{
+    color: rgb(241, 241, 52);
+}
+body.dark{
+    background-color: rgb(9, 6, 44);
+    color: white;
+}
